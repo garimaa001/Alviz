@@ -1,2 +1,2 @@
 # Alviz
-Interactive Data Structure and Algorithm Visualizer
+An Interactive Data Structure and Algorithm Visualizer
